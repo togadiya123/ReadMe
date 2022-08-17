@@ -30,5 +30,5 @@
 <details>
   <summary><h2> 📈 Activity Graph </h2></summary>
   <br/>
-<a href="https://github.com/togadiya123/github-readme-activity-graph"><img alt="togadiya's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=togadiya123&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+<a href="https://github.com/togadiya123/"><img alt="togadiya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=togadiya123&custom_title=Togadiya%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545" /></a>
 </details>
