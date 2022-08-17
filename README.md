@@ -24,12 +24,11 @@
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=togadiya123&theme=gruvbox&hide_border=true" />
           </a>
        </p>
-     <br>
   </div>    
 </details>
 
 <details>
   <summary><h2> 📈 Activity Graph </h2></summary>
   <br/>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=1999azzar&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+<a href="https://github.com/togadiya123/github-readme-activity-graph"><img alt="togadiya's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=togadiya123&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 </details>
