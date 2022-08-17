@@ -13,7 +13,6 @@
 <details> 
   <summary><h2> 💻 GitHub Profile Stats<h2></summary>
   <div>
-    <h2 align="center"> 📊 Github stats </h2>
       <br/>
         <p align="center">
           <a href="https://github.com/togadiya123/">
@@ -27,4 +26,10 @@
        </p>
      <br>
   </div>    
+</details>
+
+<details>
+  <summary><h2> 📈 Activity Graph </h2></summary>
+  <br/>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=1999azzar&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 </details>
