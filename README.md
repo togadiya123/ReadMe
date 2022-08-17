@@ -11,7 +11,7 @@
 ![](https://komarev.com/ghpvc/?username=togadiya123&color=green)
 
 <details> 
-  <summary>## 💻 GitHub Profile Stats</summary>
+  <summary><h2> 💻 GitHub Profile Stats<h2></summary>
   <div>
     <h2 align="center"> 📊 Github stats </h2>
       <br/>
