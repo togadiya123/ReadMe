@@ -7,3 +7,5 @@
 - 🎓 &nbsp; Studied Bsc(CA & IT) at KSSBM Ahmedabad.
 - 💼 &nbsp; Learning about Web Application Development.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress
+
+![](https://komarev.com/ghpvc/?username=togadiya123&color=green)
